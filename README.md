@@ -59,6 +59,6 @@ Interactive UI: Chat interface built with HTML, CSS, and Flask.
 
 ### Contact
 
-For any inquiries, contact Aryan Gupta at aryangupta159119@gmail.com.
+For any inquiries, contact Vishal Sargar at vishalsargar2003@gmail.com.
 
 "# MEDBOT" 
